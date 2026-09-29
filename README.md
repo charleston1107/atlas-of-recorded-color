@@ -4,6 +4,11 @@ An evidence-linked prototype for exploring recorded color palettes across five s
 
 Live site: <https://charleston1107.github.io/suzhou-in-color/>
 
+
+[![Short animated preview of our visualization](demo.gif)](demo.mp4)
+
+[Watch the full captioned demo](demo.mp4)
+
 ## What changed in this redesign
 
 - **Native geographic atlas:** replaces third-party map tiles with an editorial SVG outline of China and positions all five place nodes from the latitude and longitude stored in data.js.
