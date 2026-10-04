@@ -1,0 +1,287 @@
+[
+  {
+    "id": "jinxi",
+    "name": "Jinxi",
+    "nameZh": "锦溪",
+    "region": "Suzhou, Jiangsu",
+    "photoCount": 10,
+    "description": "Preview dataset built from the uploaded photograph sample. Place description pending source documentation.",
+    "coordinates": [
+      31.176,
+      120.904
+    ],
+    "representativeImage": "images/jinxi/01.jpg",
+    "recordedPalette": [
+      {
+        "hex": "#262a28",
+        "proportion": 0.42945
+      },
+      {
+        "hex": "#f3f5f4",
+        "proportion": 0.220887
+      },
+      {
+        "hex": "#696a62",
+        "proportion": 0.217848
+      },
+      {
+        "hex": "#bec2c2",
+        "proportion": 0.098457
+      },
+      {
+        "hex": "#682f29",
+        "proportion": 0.033358
+      }
+    ],
+    "similarity": [
+      {
+        "placeId": "luoyang",
+        "score": 93,
+        "weightedDeltaE00": 6.7522
+      },
+      {
+        "placeId": "bacheng",
+        "score": 90,
+        "weightedDeltaE00": 10.0065
+      },
+      {
+        "placeId": "genie",
+        "score": 87,
+        "weightedDeltaE00": 12.6228
+      },
+      {
+        "placeId": "hongkong",
+        "score": 83,
+        "weightedDeltaE00": 17.1495
+      }
+    ]
+  },
+  {
+    "id": "bacheng",
+    "name": "Bacheng",
+    "nameZh": "巴城",
+    "region": "Suzhou, Jiangsu",
+    "photoCount": 10,
+    "description": "Preview dataset built from the uploaded photograph sample. Place description pending source documentation.",
+    "coordinates": [
+      31.449,
+      120.879
+    ],
+    "representativeImage": "images/bacheng/01.jpg",
+    "recordedPalette": [
+      {
+        "hex": "#bfc5d2",
+        "proportion": 0.440714
+      },
+      {
+        "hex": "#848681",
+        "proportion": 0.310909
+      },
+      {
+        "hex": "#353b2f",
+        "proportion": 0.222102
+      },
+      {
+        "hex": "#fad4a9",
+        "proportion": 0.016603
+      },
+      {
+        "hex": "#b97a6b",
+        "proportion": 0.009672
+      }
+    ],
+    "similarity": [
+      {
+        "placeId": "jinxi",
+        "score": 90,
+        "weightedDeltaE00": 10.0065
+      },
+      {
+        "placeId": "luoyang",
+        "score": 90,
+        "weightedDeltaE00": 10.2925
+      },
+      {
+        "placeId": "genie",
+        "score": 83,
+        "weightedDeltaE00": 16.6168
+      },
+      {
+        "placeId": "hongkong",
+        "score": 80,
+        "weightedDeltaE00": 19.9533
+      }
+    ]
+  },
+  {
+    "id": "hongkong",
+    "name": "Hong Kong",
+    "nameZh": "香港",
+    "region": "Hong Kong SAR",
+    "photoCount": 10,
+    "description": "Preview dataset built from the uploaded photograph sample. Place description pending source documentation.",
+    "coordinates": [
+      22.319,
+      114.169
+    ],
+    "representativeImage": "images/hongkong/01.jpg",
+    "recordedPalette": [
+      {
+        "hex": "#181616",
+        "proportion": 0.351046
+      },
+      {
+        "hex": "#aeadac",
+        "proportion": 0.234941
+      },
+      {
+        "hex": "#756b68",
+        "proportion": 0.209604
+      },
+      {
+        "hex": "#4a3c2e",
+        "proportion": 0.180399
+      },
+      {
+        "hex": "#263754",
+        "proportion": 0.02401
+      }
+    ],
+    "similarity": [
+      {
+        "placeId": "genie",
+        "score": 86,
+        "weightedDeltaE00": 14.4138
+      },
+      {
+        "placeId": "jinxi",
+        "score": 83,
+        "weightedDeltaE00": 17.1495
+      },
+      {
+        "placeId": "luoyang",
+        "score": 83,
+        "weightedDeltaE00": 16.9136
+      },
+      {
+        "placeId": "bacheng",
+        "score": 80,
+        "weightedDeltaE00": 19.9533
+      }
+    ]
+  },
+  {
+    "id": "genie",
+    "name": "Genie Town",
+    "nameZh": "格聂镇",
+    "region": "Western Sichuan",
+    "photoCount": 10,
+    "description": "Preview dataset built from the uploaded photograph sample. Place description pending source documentation.",
+    "coordinates": [
+      29.75,
+      99.79
+    ],
+    "representativeImage": "images/genie/01.jpg",
+    "recordedPalette": [
+      {
+        "hex": "#727851",
+        "proportion": 0.360577
+      },
+      {
+        "hex": "#505245",
+        "proportion": 0.20424
+      },
+      {
+        "hex": "#9399ac",
+        "proportion": 0.19397
+      },
+      {
+        "hex": "#ced7e0",
+        "proportion": 0.123814
+      },
+      {
+        "hex": "#1e1919",
+        "proportion": 0.117399
+      }
+    ],
+    "similarity": [
+      {
+        "placeId": "jinxi",
+        "score": 87,
+        "weightedDeltaE00": 12.6228
+      },
+      {
+        "placeId": "luoyang",
+        "score": 87,
+        "weightedDeltaE00": 13.4337
+      },
+      {
+        "placeId": "hongkong",
+        "score": 86,
+        "weightedDeltaE00": 14.4138
+      },
+      {
+        "placeId": "bacheng",
+        "score": 83,
+        "weightedDeltaE00": 16.6168
+      }
+    ]
+  },
+  {
+    "id": "luoyang",
+    "name": "Luoyang",
+    "nameZh": "洛阳",
+    "region": "Henan",
+    "photoCount": 10,
+    "description": "Preview dataset built from the uploaded photograph sample. Place description pending source documentation.",
+    "coordinates": [
+      34.619,
+      112.454
+    ],
+    "representativeImage": "images/luoyang/01.jpg",
+    "recordedPalette": [
+      {
+        "hex": "#767574",
+        "proportion": 0.320943
+      },
+      {
+        "hex": "#9d9c98",
+        "proportion": 0.26854
+      },
+      {
+        "hex": "#dbe1e4",
+        "proportion": 0.201162
+      },
+      {
+        "hex": "#313234",
+        "proportion": 0.189212
+      },
+      {
+        "hex": "#bb4943",
+        "proportion": 0.020143
+      }
+    ],
+    "similarity": [
+      {
+        "placeId": "jinxi",
+        "score": 93,
+        "weightedDeltaE00": 6.7522
+      },
+      {
+        "placeId": "bacheng",
+        "score": 90,
+        "weightedDeltaE00": 10.2925
+      },
+      {
+        "placeId": "genie",
+        "score": 87,
+        "weightedDeltaE00": 13.4337
+      },
+      {
+        "placeId": "hongkong",
+        "score": 83,
+        "weightedDeltaE00": 16.9136
+      }
+    ]
+  }
+]
