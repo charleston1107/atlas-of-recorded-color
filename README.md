@@ -4,6 +4,12 @@ An evidence-linked prototype for exploring recorded color palettes across five s
 
 Live site: <https://charleston1107.github.io/suzhou-in-color/>
 
+## Demo
+
+[Watch the full project demo video](ColorAtlas_INFOSCI301_DemoVideo.mp4)
+
+The video is stored directly in this reproducible repository and demonstrates the project question, interface architecture, core interactions, validation evidence, limitations, and next steps.
+
 ## What changed in this redesign
 
 - **Homepage chromatic blend:** adapts the interaction idea from [Aceternity Compare](https://ui.aceternity.com/components/compare) into a task-specific A/B blend. A prominent slider below the image crossfades the two selected source photographs and simultaneously reweights a combined palette, while fixed evidence cards identify the strongest shared family and largest distribution difference. Keyboard control is available through the native range input.
