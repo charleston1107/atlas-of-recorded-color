@@ -2,7 +2,7 @@
 
 An evidence-linked prototype for exploring recorded color palettes across five selected places in China. The project compares sampled photographs; it does **not** claim to identify a place's true, representative, or culturally definitive colors.
 
-Live site: <https://charleston1107.github.io/suzhou-in-color/>
+Live site: < https://charleston1107.github.io/atlas-of-recorded-color/>
 
 ## Demo
 
